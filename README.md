@@ -3,6 +3,8 @@ Backup of my pokemon creation tracker google sheets file, this currently does no
 
 Link to google sheet : https://docs.google.com/spreadsheets/d/16ObAZjKSnOJ_NYa3aB70tjZE1w3XHIfZCcGg_aKDu4Q/edit?usp=sharing 
 
+Don't copy this just to put it behind a paywall, also credit me if you do( Tygerlily Garner)
+
 Current version To-Do List
 
 :black_square_button: Scarlet and Violet photos
